@@ -1,0 +1,22 @@
+{
+  "name": "yojsframework-",
+  "version": "1.0.0",
+  "description": "an idea I got ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3mmie4sure/yojsFramework-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3mmie4sure/yojsFramework-/issues"
+  },
+  "homepage": "https://github.com/3mmie4sure/yojsFramework-#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
